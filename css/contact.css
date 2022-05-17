@@ -1,0 +1,17 @@
+.contact_logo {
+    width:50px;
+}
+
+.headshot {
+    width: 200px;
+    border: 4px solid #734B5E;
+    border-radius: 200px;
+}
+
+li {
+    display:inline;
+}
+
+main {
+    text-align:center;
+}

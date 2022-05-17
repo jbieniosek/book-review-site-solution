@@ -1,0 +1,20 @@
+.detail_tag {
+    font-weight: bold;
+}
+
+.book_img {
+    width: 200px;
+}
+
+.book_title {
+    font-style: italic;
+}
+
+.review {
+    background-color: lightgrey;
+    line-height: 150%;
+}
+
+.review_title {
+    font-weight: bold;
+}
